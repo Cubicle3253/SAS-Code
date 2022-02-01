@@ -1,2 +1,2 @@
 # SAS Code
-Contains a SAS macro for reading NHANES public data from 1999-2000 to 2017-Mar2020.
+This repository contains SAS macros for reading and analyzing NHANES public data.
